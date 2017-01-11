@@ -9,8 +9,6 @@
   },
   "author": "GNU/Slut <squires1993@gmail.com>",
   "dependencies": {
-    "socket.io": "~0.9.14",
-    "websocket": "1.0.24",
     "ws": "^1.1.1"
   }
 }
