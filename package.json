@@ -1,6 +1,6 @@
 {
   "name": "Night-Star",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple bot to connect to the seafour chat system.",
   "main": "server.js",
   "repository": {
